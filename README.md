@@ -1,5 +1,5 @@
 # AdsNaTa-Android-SDK
-AdsNaTa Android SDK 4.1.6
+AdsNaTa Android SDK SDK 4.4.9.01 beta
 
 # The downloaded ZIP contains the following files:
 
